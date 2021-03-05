@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.cmledc",
+      "sha256_cert_fingerprints": ["35:3B:4B:12:B4:22:3D:93:CF:D2:42:75:7F:C3:26:AF:4F:8E:36:65:26:CA:4A:F1:88:46:96:2F:A4:F0:18:39"]
+    }
+  }
+]
