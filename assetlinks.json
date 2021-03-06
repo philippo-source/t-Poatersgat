@@ -6,5 +6,13 @@
       "package_name": "xyz.appmaker.ocnacy",
       "sha256_cert_fingerprints": ["65:D1:11:7D:4C:D7:88:26:3F:95:14:C6:83:27:4C:3E:F5:26:6E:8B:DD:D0:89:7D:47:1B:27:3C:BA:82:6E:AA"]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.ocnacy",
+      "sha256_cert_fingerprints": ["65:D1:11:7D:4C:D7:88:26:3F:95:14:C6:83:27:4C:3E:F5:26:6E:8B:DD:D0:89:7D:47:1B:27:3C:BA:82:6E:AA"]
+    }
   }
 ]
